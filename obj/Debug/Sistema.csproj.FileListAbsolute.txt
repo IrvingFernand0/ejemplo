@@ -1,0 +1,66 @@
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.exe.config
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmRegistro.resources
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmCuentas.resources
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmLogin.resources
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmPrincipal.resources
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\bin\Debug\Sistema.exe
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\bin\Debug\Sistema.pdb
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\bin\Debug\MySql.Data.dll
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\bin\Debug\Google.Protobuf.dll
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\bin\Debug\ZstdNet.dll
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\bin\Debug\System.Memory.dll
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\bin\Debug\System.Buffers.dll
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\bin\Debug\MySql.Data.xml
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.csproj.CopyComplete
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.exe
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.pdb
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmDepositar.resources
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmHistorial.resources
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmRetirar.resources
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmSaldo.resources
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmTransferir.resources
+C:\Users\Keid\Desktop\Sistem\Sistema\Sistema\obj\Debug\Sistema.Frmh.resources
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\bin\Debug\Sistema.exe
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\bin\Debug\Sistema.pdb
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\bin\Debug\MySql.Data.dll
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\bin\Debug\Google.Protobuf.dll
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\bin\Debug\ZstdNet.dll
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\bin\Debug\System.Memory.dll
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\bin\Debug\System.Buffers.dll
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\bin\Debug\MySql.Data.xml
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.exe.config
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.Frmh.resources
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmDepositar.resources
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmHistorial.resources
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmRegistro.resources
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmCuentas.resources
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmLogin.resources
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmPrincipal.resources
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmRetirar.resources
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmSaldo.resources
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.frmTransferir.resources
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.csproj.CopyComplete
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.exe
+C:\Users\Keid\Documents\Visual Studio 2022\Sistem\Sistema\Sistema\obj\Debug\Sistema.pdb
